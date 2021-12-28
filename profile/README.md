@@ -1,6 +1,6 @@
 # Uetke
 
-Uetke is a project started by [Aquiles Carattino](https://www.aquiles.me) ([github](/aquilesC)) to develop software for scientific labs. 
+Uetke is a project started by [Aquiles Carattino](https://www.aquiles.me) ([github](https://github.com/aquilesC)) to develop software for scientific labs. 
 
 Many of the projects were custom developments for research labs. Some continued their own life. 
 
