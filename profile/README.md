@@ -1,4 +1,4 @@
-# Uetke
+# ![](https://avatars.githubusercontent.com/u/29943615?s=200&v=4) Uetke
 
 Uetke is a project started by [Aquiles Carattino](https://www.aquiles.me) ([github](https://github.com/aquilesC)) to develop software for scientific labs. 
 
